@@ -29,8 +29,9 @@ end
 
 def first_second_and_third_students
   returnarray = []
- puts STUDENT_NAMES[0] +
-  STUDENT_NAMES[1] +
-  STUDENT_NAMES[2]
+  returnarray[0]= STUDENT_NAMES[0]
+  returnarray[1] = STUDENT_NAMES[1]
+  returnarray[2] = STUDENT_NAMES[2]
+  return returnarray
 end
 first_second_and_third_students
