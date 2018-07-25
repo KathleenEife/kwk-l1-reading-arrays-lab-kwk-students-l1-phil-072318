@@ -32,3 +32,4 @@ def first_second_and_third_students
   STUDENT_NAMES[1] +
   STUDENT_NAMES[2]
 end
+first_second_and_third_students
