@@ -34,4 +34,3 @@ def first_second_and_third_students
   returnarray[2] = STUDENT_NAMES[2]
   return returnarray
 end
-first_second_and_third_students
