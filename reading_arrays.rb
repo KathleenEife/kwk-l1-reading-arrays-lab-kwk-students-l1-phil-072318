@@ -28,6 +28,7 @@ def last_student_by_method
 end
 
 def first_second_and_third_students
+  returnarray = []
  puts STUDENT_NAMES[0] +
   STUDENT_NAMES[1] +
   STUDENT_NAMES[2]
